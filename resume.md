@@ -13,5 +13,6 @@ Intro to Data Journalism Markdown practice resume
 
 Employer | Job Description
 -------- | ---------------
-Morning Brew | 
+Morning Brew | * dfdf
+-------------| * dfdfdf
 
