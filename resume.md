@@ -13,6 +13,6 @@ Intro to Data Journalism Markdown practice resume
 
 Employer | Job Description
 -------- | ---------------
-Morning Brew | * dfdf
--------------| * dfdfdf
-
+Morning Brew | <ul><li>Wrote content for email newsletters reporting business news</li><li>Conducted data analytics to report on weekly content performance
+Cloudflare | <ul><li>Wrote press releases, blog posts, and award submissions</li><li>Created a database to track analyst interactions
+Brooks Acordia I.P Law | <ul><li>Wrote articles and blog posts for firm's website</li><li>Created an internal organizational system for electronic files
